@@ -13,7 +13,9 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-This will render the application as expected
+This will render the application as expected:
+
+![Development](/images/development.png)
 
 ### `npm run build`
 
@@ -24,4 +26,6 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 The application generated with this bundle has a different (wrong) visualization due to the issue we are trying to demonstrate here.
+
+![Production](/images/production.png)
 
