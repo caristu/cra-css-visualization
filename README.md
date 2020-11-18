@@ -25,7 +25,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-The application generated with this bundle has a different (wrong) visualization due to the issue we are trying to demonstrate here.
+The application generated with this bundle has a different (wrong) visualization due to the issue we are trying to demonstrate here:
 
 ![Production](/images/production.png)
 
