@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 
-
 async function resolveContexts() {
   const ctxs = await import(`./init.js`);
 
@@ -16,4 +15,6 @@ async function resolveContexts() {
   }
 }
 
-resolveContexts().then(() => ReactDOM.render(<App />, document.getElementById('root')));
+resolveContexts().then(() =>
+  ReactDOM.render(<App />, document.getElementById('root'))
+);
