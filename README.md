@@ -29,3 +29,6 @@ The application generated with this bundle has a different (wrong) visualization
 
 ![Production](/images/production.png)
 
+## Additional Issue Information
+
+This issue has been reported to CRA. See [here](https://github.com/facebook/create-react-app/issues/10086).
